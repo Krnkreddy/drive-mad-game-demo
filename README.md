@@ -144,5 +144,3 @@ If you found this project useful or fun:
 * ⭐ Star the repository
 * 🎮 Share the game link
 * 🧠 Use it for learning WebAssembly or browser game development
-
----
